@@ -10,7 +10,9 @@
     "life": "yarn upgrade-interactive --latest --exact"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.13",
     "next": "latest",
+    "phosphor-icons": "^1.4.2",
     "react": "latest",
     "react-dom": "latest"
   },
